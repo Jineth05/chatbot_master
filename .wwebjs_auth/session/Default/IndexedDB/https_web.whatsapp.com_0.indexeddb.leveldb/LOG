@@ -1,0 +1,24 @@
+2023/12/06-18:10:45.429 1a14 Reusing MANIFEST C:\Proyectos\ChatBot_Master\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/06-18:10:45.430 1a14 Recovering log #36
+2023/12/06-18:10:45.450 1a14 Reusing old log C:\Proyectos\ChatBot_Master\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000036.log 
+2023/12/06-18:10:55.994 498c Level-0 table #41: started
+2023/12/06-18:10:56.002 498c Level-0 table #41: 182616 bytes OK
+2023/12/06-18:10:56.004 498c Delete type=0 #36
+2023/12/06-18:10:56.005 498c Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/06-18:10:56.007 52a0 Level-0 table #43: started
+2023/12/06-18:10:56.019 52a0 Level-0 table #43: 479 bytes OK
+2023/12/06-18:10:56.021 52a0 Delete type=0 #40
+2023/12/06-18:10:56.021 52a0 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 63234 : 0
+2023/12/06-18:10:56.021 52a0 Compacting 1@0 + 1@1 files
+2023/12/06-18:10:56.031 52a0 Generated table #44@0: 4015 keys, 90748 bytes
+2023/12/06-18:10:56.031 52a0 Compacted 1@0 + 1@1 files => 90748 bytes
+2023/12/06-18:10:56.032 52a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/06-18:10:56.033 52a0 Delete type=2 #43
+2023/12/06-18:10:56.033 52a0 Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 63234 : 0 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/06-18:10:57.698 808 Compacting 1@1 + 1@2 files
+2023/12/06-18:10:57.718 808 Generated table #45@1: 13882 keys, 523405 bytes
+2023/12/06-18:10:57.718 808 Compacted 1@1 + 1@2 files => 523405 bytes
+2023/12/06-18:10:57.720 808 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/06-18:10:57.720 808 Delete type=2 #38
+2023/12/06-18:10:57.720 808 Delete type=2 #41
+2023/12/06-18:10:57.720 808 Delete type=2 #44
